@@ -5,6 +5,6 @@ At the end of my practical lab on machine learning i had to do a presentation on
 
 The techniques used were nothing complex. Mainly linear regression, PCA and NNs. Interestingly, deeper and more sophisticated NNs like LSTMs or more layered/larger layered NNs did not lead to an improvement.
 
-TÍ think the two main reasons for this are:
+I think the two main reasons for this are:
 - data itself is not complex enough
-- measurements have too high of a variance
+- variance of measurements is too high
